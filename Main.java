@@ -19,8 +19,6 @@ public class Main {
         Clase2 datos = new Clase2();
         
 
-        System.out.println("Descipcion ");
-        System.out.println("");
         
         datos.Producto = "Bolsas de \ncemento   ";
         datos.Unidades = 80;
