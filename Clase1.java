@@ -19,7 +19,7 @@ public class Clase1 {
     private static String [][] complemento = new String  [5][8]; //nombre de la matriz
      private static  double  [][] ArregloNumero = new double[5][8];
      private static double  [][] ArregloNumero2 = new double[5][8];
-     private static double  [][] arrayNumero3 = new double[5][8];
+     private static double  [][] ArregloNumero3 = new double[5][8];
     
     
     private int filaActual = 0;
